@@ -1,1 +1,1 @@
-Example change to the manifest!
+ignore the repo as it is for test purpose
